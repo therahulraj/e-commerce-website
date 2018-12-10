@@ -10,7 +10,6 @@ class App extends Component {
     return (
       <Aux>
         <Collection />
-        <h2 className="test">This is for second test.</h2>
       </Aux>
     );
   }

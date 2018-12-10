@@ -1,0 +1,11 @@
+.Product {
+  width: 30%;
+  height: 100px;
+  border: 1px solid #000;
+  padding: 20px;
+  text-align: center;
+  display: none;
+}
+.Product h1 {
+  color: #f0f8ff;
+}
